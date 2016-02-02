@@ -1,3 +1,32 @@
+EDX References
+
 Book Chapters
-Watanabe, M. in Scanning Transmission Electron Microscopy (eds S. J. Pennycook & Peter D. Nellist) Ch. 7, 291-351 (Springer New York, 2011).
-Williams, D. B. & Carter, C. B. in Transmission Electron Microscopy Ch.32-36, 579-678 (Springer US, 2009).
+  Watanabe, M. in Scanning Transmission Electron Microscopy (eds S. J. Pennycook & Peter D. Nellist) Ch. 7, 291-351 (Springer New York, 2011).
+  Williams, D. B. & Carter, C. B. in Transmission Electron Microscopy Ch.32-36, 579-678 (Springer US, 2009).
+
+Papers
+
+  Kramers, H. A. On the theory of X-ray absorption and of the continuous X- ray spectrum. Philosophical Magazine 46, 836-871 (1923).
+
+Quantification
+Cliff-Lorimer Factor
+  Cliff, G. & Lorimer, G. W. QUANTITATIVE-ANALYSIS OF THIN SPECIMENS. Journal of Microscopy-Oxford 103, 203-207 (1975).
+
+Zeta Factor
+  Watanabe, M. & Williams, D. B. The quantitative analysis of thin specimens: a review of progress from the Cliff-Lorimer to the new zeta-factor methods. Journal of Microscopy-Oxford 221, 89-109, doi:10.1111/j.1365-2818.2006.01549.x (2006).
+
+Absorption Correction
+  Philibert, J. in 3rd International Congress on X-ray Optics and Microanalysis. (eds H H Pattee, V E Cosslett, & A Engstrom) 379 (Academic).
+  Zaluzec, N. J. On the geometry of the absorption correction in analytical electron microscopy. Microbeam Analysis, 167 (1981).
+  Zreiba, N. A. & Kelly, T. F. ABSORPTION AND FLUORESCENCE CORRECTIONS OF CHARACTERISTIC X-RAYS FROM THIN SPHERES. X-Ray Spectrometry 17, 229-238, doi:10.1002/xrs.1300170607 (1988).
+
+Atomic Resolution
+  D'Alfonso, A. J., Freitag, B., Klenov, D. & Allen, L. J. Atomic-resolution chemical mapping using energy-dispersive x-ray spectroscopy. Physical Review B 81, doi:10.1103/PhysRevB.81.100101 (2010).
+  Itakura, M., Watanabe, N., Nishida, M., Daio, T. & Matsumura, S. Atomic-Resolution X-ray Energy-Dispersive Spectroscopy Chemical Mapping of Substitutional Dy Atoms in a High-Coercivity Neodymium Magnet. Japanese Journal of Applied Physics 52, 4, doi:10.7567/jjap.52.050201 (2013).
+  Kothleitner, G. et al. Quantitative Elemental Mapping at Atomic Resolution Using X-Ray Spectroscopy. Physical Review Letters 112, doi:10.1103/PhysRevLett.112.085501 (2014).
+  Klenov, D. O. Detection of individual atoms with energy dispersive x-ray spectroscopy in scanning transmission electron microscopy. Microscopy and Microanalysis 18, 990-991, doi:doi:10.1017/S1431927612006800 (2012).
+  Klenov, D. O. & Zide, J. M. O. Structure of the InAlAs/InP interface by atomically resolved energy dispersive spectroscopy. Applied Physics Letters 99, doi:10.1063/1.3645632 (2011).
+  Kotula, P. G., Klenov, D. O. & von Harrach, H. S. Challenges to Quantitative Multivariate Statistical Analysis of Atomic-Resolution X-Ray Spectral. Microscopy and Microanalysis 18, 691-698, doi:10.1017/s1431927612001201 (2012).
+  Chu, M. W. & Chen, C. H. Chemical Mapping and Quantification at the Atomic Scale by Scanning Transmission Electron Microscopy. Acs Nano 7, 4700-4707, doi:10.1021/nn4023558 (2013).
+  Chu, M. W., Liou, S. C., Chang, C. P., Choa, F. S. & Chen, C. H. Emergent Chemical Mapping at Atomic-Column Resolution by Energy-Dispersive X-Ray Spectroscopy in an Aberration-Corrected Electron Microscope. Physical Review Letters 104, doi:10.1103/PhysRevLett.104.196101 (2010).
+
